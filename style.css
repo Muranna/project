@@ -46,7 +46,7 @@ body {
 } */
 
 .Navbar_1 {
- 
+
   background: #fff;
   color: #FFF;
   padding: 2px 0  2px 0;
@@ -681,6 +681,7 @@ nav {
 }
 
 .post-main h4 {
+      padding-top: 30px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 1rem;
